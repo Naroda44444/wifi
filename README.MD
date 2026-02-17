@@ -4,7 +4,7 @@
 Ця програма створена з використанням бібліотеки **Tkinter** (вбудована GUI-бібліотека Python) та системної команди Windows:
 
 ```
-netsh wlan show interfaces
+wifi netsh wlan show interfaces
 ```
 
 Застосунок:
